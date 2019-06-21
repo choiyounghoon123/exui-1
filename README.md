@@ -1,7 +1,7 @@
 # exui
 * html css js 학습을 위한 프로젝트
 
-* 관련 사이트
+* 강좌 사이트
     - poiemaweb 웹 개발 튜토리얼 https://poiemaweb.com/
     - w3schools https://www.w3schools.com/
     - MDN API 및 튜토리얼 https://developer.mozilla.org/ko/docs/Web/Tutorials
