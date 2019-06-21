@@ -1,6 +1,6 @@
 # exui
 * html css js 학습을 위한 프로젝트
-
+WideBoyType
 * 강좌 사이트
     - poiemaweb 웹 개발 튜토리얼 https://poiemaweb.com/
     - w3schools https://www.w3schools.com/
@@ -16,3 +16,9 @@
 * 이클립스 단축키 
     - http://dw.hanbit.co.kr/exam/1623/eclipse_shortcut.pdf
     - https://t1.daumcdn.net/cfile/tistory/20358B264A2C986806?download
+
+* 코드컴뱃
+    - 코드 컴뱃(codecombat.com) 사이트에 가입 후, KITHGAUD DUNGEON을 모두 클리어 해주세요
+    - https://codecombat.com
+    - https://www.youtube.com/watch?v=8CRp9p5vI2w
+    - http://blog.naver.com/PostList.nhn?blogId=hwjoho7&categoryNo=60&from=postList
