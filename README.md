@@ -10,7 +10,6 @@
     - edwith 웹 UI 개발 https://www.edwith.org/boostcourse-ui
     - Front End 웹 개발개론 Daum https://code.google.com/archive/p/frontend-tech-class/downloads
 
-
 * 게시판 화면 설계
     - http://www.joshi.co.kr/index.php?mid=board_wUIV71&document_srl=301665
     - https://hunit.tistory.com/179
@@ -19,7 +18,7 @@
     - http://dw.hanbit.co.kr/exam/1623/eclipse_shortcut.pdf
     - https://t1.daumcdn.net/cfile/tistory/20358B264A2C986806?download
 
-
+* CSS 선택자
     - CSS selector quiz https://testmoz.com/38107
     - CSS diner https://flukeout.github.io/
 
