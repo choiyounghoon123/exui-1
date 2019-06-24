@@ -18,7 +18,6 @@
     - CSS selector quiz https://testmoz.com/38107
     - CSS diner https://flukeout.github.io/
 
-
 * 코드컴뱃
     - 코드 컴뱃(codecombat.com) 사이트에 로그인 후, KITHGAUD DUNGEON을 모두 클리어
     - https://codecombat.com
