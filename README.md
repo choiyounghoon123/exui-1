@@ -10,10 +10,6 @@
     - edwith 웹 UI 개발 https://www.edwith.org/boostcourse-ui
     - Front End 웹 개발개론 Daum https://code.google.com/archive/p/frontend-tech-class/downloads
 
-* 게시판 화면 설계
-    - http://www.joshi.co.kr/index.php?mid=board_wUIV71&document_srl=301665
-    - https://hunit.tistory.com/179
-
 * 이클립스 단축키 
     - http://dw.hanbit.co.kr/exam/1623/eclipse_shortcut.pdf
     - https://t1.daumcdn.net/cfile/tistory/20358B264A2C986806?download
@@ -24,14 +20,19 @@
 
 
 * 코드컴뱃
-    - 코드 컴뱃(codecombat.com) 사이트에 가입 후, KITHGAUD DUNGEON을 모두 클리어 해주세요
+    - 코드 컴뱃(codecombat.com) 사이트에 로그인 후, KITHGAUD DUNGEON을 모두 클리어
     - https://codecombat.com
     - https://www.youtube.com/watch?v=8CRp9p5vI2w
     - http://blog.naver.com/PostList.nhn?blogId=hwjoho7&categoryNo=60&from=postList
 
-- https://www.bloc.io/ruby-warrior#/
-- https://www.codingame.com
-- https://www.codeavengers.com
-- https://www.playcodemonkey.com/
-- https://code.org/hourofcode/overview
-- https://www.google.com/doodles/celebrating-50-years-of-kids-coding    
+* 코딩 게임
+    - https://www.bloc.io/ruby-warrior#/
+    - https://www.codingame.com
+    - https://www.codeavengers.com
+    - https://www.playcodemonkey.com/
+    - https://code.org/hourofcode/overview
+    - https://www.google.com/doodles/celebrating-50-years-of-kids-coding    
+
+* 게시판 화면 설계
+    - http://www.joshi.co.kr/index.php?mid=board_wUIV71&document_srl=301665
+    - https://hunit.tistory.com/179
